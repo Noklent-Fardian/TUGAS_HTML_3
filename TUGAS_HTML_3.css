@@ -1,0 +1,72 @@
+fieldset {
+	border-radius: 10px;
+	display :inline-block;
+	text-align: left;
+
+
+}
+h2{
+	padding-top: 45px;
+
+
+}
+
+.N {
+	height:23px;
+	width: 30%;
+	margin: 7px;
+}
+.pengguna{
+	height: 23px;
+	width: 67%;
+	margin: 7px;
+
+}
+.logo{
+	padding-left: 30px;
+}
+.form-password{height:23px;
+	width: 30%;
+	margin: 7px;
+}
+a{
+	text-decoration: none;
+}
+
+.next {
+	border:none;
+	background-color:cyan;
+	color:#FFFFFF;
+	padding:10px;
+	float:center;
+	font-weight:bold;
+	margin:0px 0px 0px 200px ;}
+.pilih {
+	padding-top:1px;
+	background-color:#FFFFFF;
+	border:none;
+	padding-right:5px;
+}
+.tombola {
+	border:none;
+	background-color:#FFFFFF;
+	padding-top:5px;
+}
+.tombolb {
+    border:none;
+	background-color:#FFFFFF;
+	padding-left:10px;
+	padding-top:5px;
+
+}
+.Negara {
+	padding-left:150px;
+}
+.alat {
+	padding-left:370px;
+}
+
+
+
+
+
